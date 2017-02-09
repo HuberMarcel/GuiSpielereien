@@ -30,7 +30,7 @@ public class ZeichnenSpielereien extends JFrame{
     
     @Override
     public void paint(Graphics zeichner) {
-        zeichner.drawLine(0, 0, 100, 100);
+        zeichner.drawLine(0, 0, 300, 300);
     }
         
 }
